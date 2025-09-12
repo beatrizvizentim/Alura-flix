@@ -1,5 +1,11 @@
 body{
-    background-color:rgb(154, 229, 236);
+    background-color: blue;
     color:rgb(5, 3, 56);
-    font-family:'Times New Roman', Times, serif;
+    font-family: "Bitcount Grid Double", system-ui;
+}
+header{
+    font-size: 50px;
+}
+h1{
+    font-size: 30px;
 }
