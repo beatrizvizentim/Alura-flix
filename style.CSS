@@ -1,11 +1,15 @@
 body{
-    background-color: black;
-    color: azure;
+    background-color: rgb(15, 4, 136);
+    color:rgb(17, 61, 166);
     font-family: "Bitcount Grid Double", system-ui;
 }
 header{
     font-size: 50px;
+    border: inset  5px black;
 }
 h1{
     font-size: 30px;
+}
+p{
+    font-size: 20px;
 }
